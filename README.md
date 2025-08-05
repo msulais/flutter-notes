@@ -21,7 +21,7 @@
 ![build version](https://img.shields.io/badge/Build%20version-1.0.4-blue?style=for-the-badge)
 ![last update](https://img.shields.io/badge/Last%20update-June%206%2C%202023-yellow?style=for-the-badge)
 
-> Play store link: [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
+> Play store link: [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes) (not available anymore)
 
 Introducing our simple and intuitive notes app - the perfect tool to capture all your thoughts, ideas, and to-dos. With our app, you can easily create, edit, delete, archive, pin, or trash your notes.
 
